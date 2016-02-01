@@ -34,3 +34,6 @@
 /src/vm/*.o
 /src/vm/.libs/
 /src/vm/.dirstamp
+*.sdf
+*.opendb
+.vs/
